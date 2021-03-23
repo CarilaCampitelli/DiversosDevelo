@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T16:53:29.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="XO2k_irEJREUes5Y2ESA" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T16:56:45.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="PVFEdmm7It-tlsgFThK1" version="14.5.0" type="github">
   <diagram id="YpkhJxXbhVLvgbfbjZGf" name="Page-1">
     <mxGraphModel dx="852" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="ihm3AJdE8n84Boce-SHu-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="993" width="837" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ihm3AJdE8n84Boce-SHu-24" value="AppSec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="51" y="1003" width="64" height="20" as="geometry" />
+        <mxCell id="ihm3AJdE8n84Boce-SHu-24" value="Continuos Testing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="51" y="1003" width="117" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ihm3AJdE8n84Boce-SHu-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="661" width="837" height="260" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="ihm3AJdE8n84Boce-SHu-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="1335" width="837" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ihm3AJdE8n84Boce-SHu-28" value="AppSec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ihm3AJdE8n84Boce-SHu-28" value="SRE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="46" y="1345" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ihm3AJdE8n84Boce-SHu-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -82,20 +82,26 @@
         <mxCell id="ihm3AJdE8n84Boce-SHu-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="17" y="1936" width="837" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ihm3AJdE8n84Boce-SHu-36" value="AppSec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ihm3AJdE8n84Boce-SHu-36" value="DevSecOps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="48" y="1946" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ihm3AJdE8n84Boce-SHu-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="26.5" y="2252" width="837" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ihm3AJdE8n84Boce-SHu-38" value="AppSec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="57.5" y="2262" width="64" height="20" as="geometry" />
+        <mxCell id="ihm3AJdE8n84Boce-SHu-38" value="Software Engineers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="2262" width="178.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ihm3AJdE8n84Boce-SHu-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="26.5" y="2552" width="837" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ihm3AJdE8n84Boce-SHu-40" value="AppSec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="57.5" y="2562" width="64" height="20" as="geometry" />
+        <mxCell id="ihm3AJdE8n84Boce-SHu-40" value="Fale com nossos especialistas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="2562" width="166.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ihm3AJdE8n84Boce-SHu-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="26.5" y="2846" width="837" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ihm3AJdE8n84Boce-SHu-42" value="Menu Rodapé" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="2856" width="166.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
