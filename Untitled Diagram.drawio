@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T16:57:23.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0wif9oCl1QL-C_qhCnkJ" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T17:00:38.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mv-L9p1gnel_nDU0KjpA" version="14.5.0" type="github">
   <diagram id="YpkhJxXbhVLvgbfbjZGf" name="Page-1">
     <mxGraphModel dx="852" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,6 +102,20 @@
         </mxCell>
         <mxCell id="ihm3AJdE8n84Boce-SHu-42" value="Menu Rodapé" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="57.5" y="2856" width="166.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ihm3AJdE8n84Boce-SHu-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#000000;" edge="1" parent="1" target="ihm3AJdE8n84Boce-SHu-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="71" y="1725" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ihm3AJdE8n84Boce-SHu-43" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="48" y="1710" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ihm3AJdE8n84Boce-SHu-47" value="Object" style="html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="112" y="1700" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ihm3AJdE8n84Boce-SHu-51" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1823" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
